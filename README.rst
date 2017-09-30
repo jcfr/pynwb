@@ -7,6 +7,9 @@
 .. image:: https://ci.appveyor.com/api/projects/status/9y808ua44yldy5n3?svg=true
     :target: https://ci.appveyor.com/project/NeurodataWithoutBorders/pynwb
 
+.. image:: https://coveralls.io/repos/github/NeurodataWithoutBorders/pynwb/badge.svg
+    :target: https://coveralls.io/github/NeurodataWithoutBorders/pynwb
+
 NWB Format API
 ========================
 

@@ -1,4 +1,4 @@
- codecov
- coverage
- tox
- unittest2
+coverage
+python-coveralls
+tox
+unittest2
